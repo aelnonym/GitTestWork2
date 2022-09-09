@@ -6,12 +6,12 @@ namespace aula_02
         //Classes -------------------------------------------------------
 
         public class Memes_Brasil{
-            public string[,] mapa = new string[10,10]; //Criando o mapa
+            public string[,] map = new string[10,10]; //Creating Map
 
             public Memes_Brasil(){
                 for(int i = 0; i < 10; i++){
                     for(int j = 0; j < 10; j++){
-                        mapa[i,j] = "--";
+                        map[i,j] = "--";
                     }
                 }
             }
@@ -27,11 +27,11 @@ namespace aula_02
         //Chamando tudo -------------------------------------------------------
     public static void Main()
         {
-            var jogo = new Memes_Brasil();
+            var games = new Memes_Brasil();
                           
-            printa_tudo(jogo.mapa);
+            printa_tudo(games.map);
 
         }  
     }      
 }
-// Versao 3 Main
+// Versao 4 Main Abuble memes
