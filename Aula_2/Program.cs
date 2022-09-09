@@ -34,8 +34,4 @@ namespace aula_02
         }  
     }      
 }
-//V1 - FIRST ALTERATION
-//V2 - SECOND ALTERATION
-//V3 - THIRD ALTERATION
-//V3.1 - Fix Branch 35
-// Alok meysssss Versas
+// Versao 2 Main
