@@ -1,8 +1,7 @@
 ﻿using System;
 namespace aula_02
 {
-    internal class Program
-    {
+    internal class Program { //Modificação 3.2
         //Classes -------------------------------------------------------
 
         public class Memes_Brasil{
