@@ -1,9 +1,13 @@
 ﻿using System;
 namespace aula_02
 {
-    internal class Program
+    internal class Program 
     {
         //Classes -------------------------------------------------------
+        public class Conflito{
+
+        }
+
 
         public class Criacao_Mapa{
             public string[,] mapa = new string[10,10]; //Criando o mapa
@@ -36,3 +40,4 @@ namespace aula_02
 }
 // Versao 2 Main
 // Versao 2.1
+// Versao 2.2
