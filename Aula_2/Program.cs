@@ -1,8 +1,17 @@
 ﻿using System;
 namespace aula_02
 {
+<<<<<<< HEAD
     internal class Program { //Modificação 3.2
+=======
+    internal class Program 
+    {
+>>>>>>> ca6fb10 (v2.2 conflito)
         //Classes -------------------------------------------------------
+        public class Conflito{
+
+        }
+
 
         public class Memes_Brasil{
             public string[,] map = new string[10,10]; //Creating Map
@@ -37,3 +46,4 @@ namespace aula_02
 // Versao 4 Main Abuble memes
 // Versao 2 Main
 // Versao 2.1
+// Versao 2.2
