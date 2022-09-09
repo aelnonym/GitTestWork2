@@ -29,7 +29,7 @@ namespace aula_02
         {
             var jogo = new Memes_Brasil();
                           
-            printa_tudo(jogo.mapa);
+            printa_tudo(jogo.mapa); //Versao 3.1
 
         }  
     }      
